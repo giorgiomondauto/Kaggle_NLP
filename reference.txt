@@ -1,0 +1,3 @@
+Bert for Fine-Tuning: https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+Bert for Training from scratch: https://github.com/huggingface/transformers/blob/23c23f53997d59ad688eb033a044b2749b972af7/pytorch_transformers/modeling_bert.py
+Bert for masking: https://github.com/huggingface/transformers/blob/23c23f53997d59ad688eb033a044b2749b972af7/examples/run_lm_finetuning.py
