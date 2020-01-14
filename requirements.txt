@@ -1,0 +1,9 @@
+jupyter
+pandas
+sklearn
+google-cloud-automl
+google-cloud-storage
+seaborn
+wordcloud
+nltk
+pyspellchecker
