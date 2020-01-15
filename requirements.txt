@@ -7,3 +7,5 @@ seaborn
 wordcloud
 nltk
 pyspellchecker
+google-cloud-language
+tqdm
